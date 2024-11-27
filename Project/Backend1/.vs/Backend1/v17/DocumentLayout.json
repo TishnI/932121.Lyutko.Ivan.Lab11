@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\TISHA\\Downloads\\\u0412\u0410\u0416\u041D\u041E\u0415!\\\u041C\u0430\u0442\u0435\u0440\u044B\\3 \u043A\u0443\u0440\u0441\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\Web\\\u041B\u0430\u0431\u044B\\Lab11\\Project\\Backend1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C0F4C5CC-29E9-464B-9332-21CC4A8526D8}|Backend1\\Backend1.csproj|c:\\users\\tisha\\downloads\\\u0432\u0430\u0436\u043D\u043E\u0435!\\\u043C\u0430\u0442\u0435\u0440\u044B\\3 \u043A\u0443\u0440\u0441\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\web\\\u043B\u0430\u0431\u044B\\lab11\\project\\backend1\\backend1\\controllers\\calcservicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0F4C5CC-29E9-464B-9332-21CC4A8526D8}|Backend1\\Backend1.csproj|solutionrelative:backend1\\controllers\\calcservicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0F4C5CC-29E9-464B-9332-21CC4A8526D8}|Backend1\\Backend1.csproj|c:\\users\\tisha\\downloads\\\u0432\u0430\u0436\u043D\u043E\u0435!\\\u043C\u0430\u0442\u0435\u0440\u044B\\3 \u043A\u0443\u0440\u0441\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\web\\\u043B\u0430\u0431\u044B\\lab11\\project\\backend1\\backend1\\views\\calcservice\\passusingviewdata.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0F4C5CC-29E9-464B-9332-21CC4A8526D8}|Backend1\\Backend1.csproj|solutionrelative:backend1\\views\\calcservice\\passusingviewdata.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0F4C5CC-29E9-464B-9332-21CC4A8526D8}|Backend1\\Backend1.csproj|c:\\users\\tisha\\downloads\\\u0432\u0430\u0436\u043D\u043E\u0435!\\\u043C\u0430\u0442\u0435\u0440\u044B\\3 \u043A\u0443\u0440\u0441\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\web\\\u043B\u0430\u0431\u044B\\lab11\\project\\backend1\\backend1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0F4C5CC-29E9-464B-9332-21CC4A8526D8}|Backend1\\Backend1.csproj|solutionrelative:backend1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0F4C5CC-29E9-464B-9332-21CC4A8526D8}|Backend1\\Backend1.csproj|c:\\users\\tisha\\downloads\\\u0432\u0430\u0436\u043D\u043E\u0435!\\\u043C\u0430\u0442\u0435\u0440\u044B\\3 \u043A\u0443\u0440\u0441\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\web\\\u043B\u0430\u0431\u044B\\lab11\\project\\backend1\\backend1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0F4C5CC-29E9-464B-9332-21CC4A8526D8}|Backend1\\Backend1.csproj|solutionrelative:backend1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PassUsingViewData.cshtml",
+              "DocumentMoniker": "C:\\Users\\TISHA\\Downloads\\\u0412\u0410\u0416\u041D\u041E\u0415!\\\u041C\u0430\u0442\u0435\u0440\u044B\\3 \u043A\u0443\u0440\u0441\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\Web\\\u041B\u0430\u0431\u044B\\Lab11\\Project\\Backend1\\Backend1\\Views\\CalcService\\PassUsingViewData.cshtml",
+              "RelativeDocumentMoniker": "Backend1\\Views\\CalcService\\PassUsingViewData.cshtml",
+              "ToolTip": "C:\\Users\\TISHA\\Downloads\\\u0412\u0410\u0416\u041D\u041E\u0415!\\\u041C\u0430\u0442\u0435\u0440\u044B\\3 \u043A\u0443\u0440\u0441\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\Web\\\u041B\u0430\u0431\u044B\\Lab11\\Project\\Backend1\\Backend1\\Views\\CalcService\\PassUsingViewData.cshtml",
+              "RelativeToolTip": "Backend1\\Views\\CalcService\\PassUsingViewData.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-25T16:26:51.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CalcServiceController.cs",
+              "DocumentMoniker": "C:\\Users\\TISHA\\Downloads\\\u0412\u0410\u0416\u041D\u041E\u0415!\\\u041C\u0430\u0442\u0435\u0440\u044B\\3 \u043A\u0443\u0440\u0441\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\Web\\\u041B\u0430\u0431\u044B\\Lab11\\Project\\Backend1\\Backend1\\Controllers\\CalcServiceController.cs",
+              "RelativeDocumentMoniker": "Backend1\\Controllers\\CalcServiceController.cs",
+              "ToolTip": "C:\\Users\\TISHA\\Downloads\\\u0412\u0410\u0416\u041D\u041E\u0415!\\\u041C\u0430\u0442\u0435\u0440\u044B\\3 \u043A\u0443\u0440\u0441\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\Web\\\u041B\u0430\u0431\u044B\\Lab11\\Project\\Backend1\\Backend1\\Controllers\\CalcServiceController.cs",
+              "RelativeToolTip": "Backend1\\Controllers\\CalcServiceController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T16:23:43.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\TISHA\\Downloads\\\u0412\u0410\u0416\u041D\u041E\u0415!\\\u041C\u0430\u0442\u0435\u0440\u044B\\3 \u043A\u0443\u0440\u0441\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\Web\\\u041B\u0430\u0431\u044B\\Lab11\\Project\\Backend1\\Backend1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Backend1\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\TISHA\\Downloads\\\u0412\u0410\u0416\u041D\u041E\u0415!\\\u041C\u0430\u0442\u0435\u0440\u044B\\3 \u043A\u0443\u0440\u0441\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\Web\\\u041B\u0430\u0431\u044B\\Lab11\\Project\\Backend1\\Backend1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Backend1\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-25T16:09:21.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\TISHA\\Downloads\\\u0412\u0410\u0416\u041D\u041E\u0415!\\\u041C\u0430\u0442\u0435\u0440\u044B\\3 \u043A\u0443\u0440\u0441\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\Web\\\u041B\u0430\u0431\u044B\\Lab11\\Project\\Backend1\\Backend1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Backend1\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\TISHA\\Downloads\\\u0412\u0410\u0416\u041D\u041E\u0415!\\\u041C\u0430\u0442\u0435\u0440\u044B\\3 \u043A\u0443\u0440\u0441\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\Web\\\u041B\u0430\u0431\u044B\\Lab11\\Project\\Backend1\\Backend1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Backend1\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T15:39:11.177Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
