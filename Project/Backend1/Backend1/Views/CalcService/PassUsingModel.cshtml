@@ -1,0 +1,29 @@
+﻿@using Backend1.Models
+@using Backend1.ViewModels
+@model CalcViewModel
+
+@{
+	ViewBag.Title = "PassUsingModel";
+}
+
+<h2>@ViewBag.Title</h2>
+
+@section FirstValue {
+    @Model.FirstValue
+}
+@section SecondValue {
+    @Model.SecondValue
+}
+@section Add {
+    @Model.FirstValue + @Model.SecondValue = @Model.AddValue
+}
+@section Sub {
+    @Model.FirstValue - @Model.SecondValue = @Model.SubValue
+}
+@section Mult {
+    @Model.FirstValue * @Model.SecondValue = @Model.MultValue
+}
+@section Div {
+    @Model.FirstValue / @Model.SecondValue = @Model.DivValue
+}
+

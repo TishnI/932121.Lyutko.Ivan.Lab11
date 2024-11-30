@@ -1,0 +1,28 @@
+﻿@using Backend1.Services
+
+@inject ICalcService calcService
+
+@{
+	ViewBag.Title = "AccessServiceDirectly";
+}
+
+<h2>@ViewBag.Title</h2>
+
+@section FirstValue {
+    @calcService.GetFirstValue();
+}
+@section SecondValue {
+    @calcService.GetSecondValue();
+}
+@section Add {
+    @calcService.GetFirstValue() + @calcService.GetSecondValue() = @calcService.GetAdd();
+}
+@section Sub {
+    @calcService.GetFirstValue() - @calcService.GetSecondValue() = @calcService.GetSub();
+}
+@section Mult {
+    @calcService.GetFirstValue() * @calcService.GetSecondValue() = @calcService.GetMult();
+}
+@section Div {
+    @calcService.GetFirstValue() / @calcService.GetSecondValue() = @calcService.GetDiv();
+}

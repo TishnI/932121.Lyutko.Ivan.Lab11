@@ -1,0 +1,24 @@
+﻿@{
+	ViewBag.Title = "PassUsingViewBag";
+}
+
+<h2>@ViewBag.Title</h2>
+
+@section FirstValue {
+    @ViewBag.FirstValue
+}
+@section SecondValue {
+    @ViewBag.SecondValue
+}
+@section Add {
+    @ViewBag.FirstValue + @ViewBag.SecondValue = @ViewBag.Add
+}
+@section Sub {
+    @ViewBag.FirstValue - @ViewBag.SecondValue = @ViewBag.Sub
+}
+@section Mult {
+    @ViewBag.FirstValue * @ViewBag.SecondValue = @ViewBag.Mult
+}
+@section Div {
+    @ViewBag.FirstValue / @ViewBag.SecondValue = @ViewBag.Div
+}
