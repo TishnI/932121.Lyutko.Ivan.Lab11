@@ -1,0 +1,26 @@
+﻿@{
+    ViewData["Title"] = "PassUsingViewData";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+@section FirstValue{
+    @ViewData["FirstValue"]
+}
+@section SecondValue{
+    @ViewData["SecondValue"]
+}
+@section Add{
+    @ViewData["FirstValue"] + @ViewData["SecondValue"] = @ViewData["Add"]
+}
+@section Sub{
+    @ViewData["FirstValue"] - @ViewData["SecondValue"] = @ViewData["Sub"]
+}
+@section Mult{
+    @ViewData["FirstValue"] * @ViewData["SecondValue"] = @ViewData["Mult"]
+}
+@section Div{
+    @ViewData["FirstValue"] / @ViewData["SecondValue"] = @ViewData["Div"]
+}
+
+

@@ -1,0 +1,15 @@
+﻿@{
+	Layout = "/Views/Shared/_Layout.cshtml";
+}
+
+@RenderBody()
+
+
+<p class="fw-bold m-0">Rand Value First : @RenderSection("FirstValue")</p>
+<p class="fw-bold m-0">Rand Value Second : @RenderSection("SecondValue")</p>
+<p class="m-0"><span class="fw-bold">Add</span> :<br /> @RenderSection("Add")</p>
+<p class="m-0"><span class="fw-bold">Sub</span> :<br /> @RenderSection("Sub")</p>
+<p class="m-0"><span class="fw-bold">Mult</span> :<br /> @RenderSection("Mult")</p>
+<p class="m-0"><span class="fw-bold">Div</span> :<br /> @RenderSection("Div")</p>
+
+
